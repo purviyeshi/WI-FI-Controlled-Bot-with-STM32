@@ -5,7 +5,7 @@ The WiFi-Controlled Bot with STM32-Nucleo and ESP8266 Bolt IoT WiFi Module is an
 
 The main components of the system include the STM32-Nucleo development board, acting as the central processing unit and motor control interface. And the ESP8266 Bolt IoT WiFi module, responsible for wireless communication with the robot. The STM32-Nucleo is equipped with high-performance microcontrollers and GPIO pins to manage sensor inputs, motor control, and decision-making logic.
 
-## Demo
+## Demo:
 https://github.com/purviyeshi/WI-FI-Controlled-Bot-with-STM32/assets/129578264/29c6816b-e0b2-4c8b-a286-56d85876979b
 
 ## Hardware components used
