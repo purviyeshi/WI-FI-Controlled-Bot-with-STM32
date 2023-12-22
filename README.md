@@ -1,4 +1,4 @@
-# WI-FI Controlled Bot with STM32
+# WI-FI Controlled Bot with STM32 & BoltIoT
 
 ## About The Project
 The WiFi-Controlled Bot with STM32-Nucleo and ESP8266 Bolt IoT WiFi Module is an innovative robotics project that combines the power of STM32-Nucleo development board and the versatility of the ESP8266 Bolt IoT WiFi module to create a remotely controlled robotic vehicle. This project aims to provide an accessible and scalable platform for enthusiasts and developers to explore the realms of robotics and Internet of Things (IoT).
